@@ -6,7 +6,7 @@
     font-family: 'Poppins', sans-serif;
 }
 #banner{
-    background: linear-gradient(rgba(0,0,0,0.1), #009688), url(/assets/barber.jpg);
+    background: url(../assets/barber.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
